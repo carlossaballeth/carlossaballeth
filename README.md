@@ -13,7 +13,7 @@ const carlossaballe = {
   tools: [React, React Native, Redux, Node, Moleculer],
   techCommunities: {
       henry: ["Teaching Assistant", "https://www.linkedin.com/school/soyhenry/"]
-    }
+  }
 }
 ```
 <!--
