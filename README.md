@@ -13,7 +13,6 @@ const carlossaballe = {
   tools: [React, React Native, Redux, Node, Moleculer]
 }
 ```
-
 <!--
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlossaballe&show_icons=true&theme=onedark) 
 
