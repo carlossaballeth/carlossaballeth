@@ -10,7 +10,10 @@ I've worked developing firmware for microcontrollers (PIC and Arduino) and curre
 const carlossaballe = {
   pronouns: 'he' || 'him',
   code: ['Javascript', 'HTML', 'CSS'],
-  tools: [React, React Native, Redux, Node, Moleculer]
+  tools: [React, React Native, Redux, Node, Moleculer],
+  techCommunities: {
+      henry: ["Teaching Assistant", "https://www.linkedin.com/school/soyhenry/"]
+    }
 }
 ```
 <!--
