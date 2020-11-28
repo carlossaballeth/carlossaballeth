@@ -1,6 +1,22 @@
-### Hi there 👋
+### Hi, nice to see you! 🧑🏽‍💻😎
+
+<img src="header-image.png" alt="header1" style="border-radius:40px">
+
+My name is Carlos, I'm passionated about software development, I'm a <b>full stack web developer</b> and an <b>electronic engineer</b>, I'm from Colombia 🇨🇴. 
+I've worked developing firmware for microcontrollers (PIC and Arduino) and currently I'm dedicated to <b>web development</b>. I'm also interested in expanding my experience/knowledge in cross-platform mobile development.
+
+#### About me in code
+```js
+const carlossaballe = {
+  pronouns: 'he' || 'him',
+  code: ['Javascript', 'HTML', 'CSS'],
+  tools: [React, React Native, Redux, Node, Moleculer]
+}
+```
 
 <!--
+![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlossaballe&show_icons=true&theme=onedark) 
+
 **carlossaballe/carlossaballe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
