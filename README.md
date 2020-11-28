@@ -1,4 +1,4 @@
-### Hi, nice to see you! 🧑🏽‍💻😎
+### Hi! Nice to see you! 🧑🏽‍💻😎
 
 <img src="header-image.png" alt="header1" style="border-radius:40px">
 
