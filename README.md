@@ -1,6 +1,6 @@
 ### Hi! Nice to see you! 🧑🏽‍💻😎
 
-<img src="header-image.png" alt="header1" style="border-radius:40px">
+<img src="header-image.png" alt="header">
 
 My name is Carlos, I'm passionated about software development, I'm a <b>full stack web developer</b> and an <b>electronic engineer</b>, I'm from Colombia 🇨🇴. 
 I've worked developing firmware for microcontrollers (PIC and Arduino) and currently I'm dedicated to <b>web development</b>. I'm also interested in expanding my experience/knowledge in cross-platform mobile development.
