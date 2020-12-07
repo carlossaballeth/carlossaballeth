@@ -14,7 +14,7 @@ const carlossaballe = {
   techCommunities: {
       henry: ["Teaching Assistant", "linkedin.com/school/soyhenry/"]
   },
-  learning: { Vue.js },
+  learning: { Vue },
 }
 ```
 <!--
