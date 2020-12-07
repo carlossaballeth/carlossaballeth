@@ -13,7 +13,8 @@ const carlossaballe = {
   tools: [React, React Native, Redux, Node, Moleculer],
   techCommunities: {
       henry: ["Teaching Assistant", "linkedin.com/school/soyhenry/"]
-  }
+  },
+  learning: { Vue.js },
 }
 ```
 <!--
