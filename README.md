@@ -1,37 +1,69 @@
-### Hi! Nice to see you! 🧑🏽‍💻😎
+### Hi! Nice to see you! 🧑🏽‍💻😎⚡
 
-<img src="header-image.png" alt="header">
+<style>
+  .wrapper {
+    align-items: center;
+    background-color: rgb(48, 48, 45);
+    display: flex;
+    justify-content: space-between;
+    margin: 16px 0;
+    padding: 8px 32px;
+  }
+  .icon {
+    color: rgb(158, 178, 125);
+    font-size: 50px;
+    font-weight: bold;
+  }
+  .name {
+    color: rgb(180, 162, 108);
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .role {
+    color: rgb(215, 104, 108);
+    font-size: 12px;
+  }
+  .description {
+    align-items: end;
+    display: flex;
+    flex-direction: column;
+  }
+</style>
+<div class='wrapper'>
+    <div class='icon'>< / ></div>
+    <div class='description'>
+      <div class='name'>Carlos M. Saballeth</div>
+      <div class='role'>Fullstack web developer</div>
+    </div>
+</div>
 
 My name is Carlos, I'm passionated about software development, I'm a <b>full stack web developer</b> and an <b>electronic engineer</b>, I'm from Colombia 🇨🇴. 
-I've worked developing firmware for microcontrollers (PIC and Arduino) and currently I'm dedicated to <b>web development</b>. I'm also interested in expanding my experience/knowledge in cross-platform mobile development.
 
-#### About me in code
+I've worked developing firmware for microcontrollers (PIC and Arduino) and currently I'm fully dedicated to <b>web development</b>. 
+#### About me in code:
 ```js
-const carlossaballe = {
+const carlossaballeth = {
   pronouns: 'he' || 'him',
-  code: ['Javascript', 'HTML', 'CSS'],
-  tools: [React, Redux, Node, Moleculer],
-  techCommunities: {
-      henry: ["Teaching Assistant", "linkedin.com/school/soyhenry/"]
+  code: [
+    'Javascript',
+    'Typescript',
+    'HTML',
+    'CSS'
+  ],
+  tools: [
+    React,
+    Redux,
+    Node,
+    Storybook,
+    MaterialUI,
+    ReactTestingLibrary
+  ],
+  experience: {
+    Henry: ["Teaching Assistant"],
+    MovilBox: ["Front-end developer"]
   },
-  learning: { React Native },
-  working_at: { MovilBox S.A.S.}
+  working_at: { 
+    GeniusSportsColombia: ["Fullstack developer"]
+  }
 }
 ```
-<!--
-![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlossaballe&show_icons=true&theme=onedark) 
-
-**carlossaballe/carlossaballe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
