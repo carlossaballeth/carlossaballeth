@@ -29,10 +29,10 @@ const carlossaballeth = {
   ],
   experience: {
     Henry: ["Teaching Assistant"],
-    MovilBox: ["Front-end developer"]
+    MovilBox: ["Front-End Developer"]
   },
   working_at: { 
-    GeniusSportsColombia: ["Fullstack developer"]
+    GeniusSportsColombia: ["Fullstack Developer"]
   }
 }
 ```
